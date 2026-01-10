@@ -1,11 +1,12 @@
 # online-exam-system
-📌 Overview
+
+# 📌 Overview
 
 The Online Examination System is a Java Swing–based desktop application that allows students to take
 
 multiple-choice exams online. The system automatically checks answers and shows results at the end.
 
-🚀 Features
+# 🚀 Features
 
 Simple and user-friendly interface
 
@@ -21,7 +22,7 @@ Automatic evaluation
 
 Instant result display
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 Start the application
 
@@ -36,7 +37,7 @@ Click Submit or wait for time to end
 View final score and result
 
 
-▶️ How to Run
+# ▶️ How to Run
 
 clone the repository:
 
